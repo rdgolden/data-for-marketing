@@ -137,7 +137,7 @@ Follow along with the [Data Analysis for Marketing slide deck](https://docs.goog
 ### 3. Applying Data Analytics (10 mins)
 
 <details>
-   <summary><strong>Slide 9: Begin to Apply Data Analytics</strong></summary>
+   <summary><strong>Slide 9: First Steps Toward a Data Driven Solution</strong></summary>
 
 * The first step in solving any problem is to rephrase it in terminology that works for you. Let's use this question from earlier for example:
 
