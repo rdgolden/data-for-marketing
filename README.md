@@ -134,10 +134,10 @@ Follow along with the [Data Analysis for Marketing slide deck](https://docs.goog
 
 </details>
 
-### 3. Begin Applying Data Analytics (10 mins)
+### 3. Applying Data Analytics (10 mins)
 
 <details>
-   <summary><strong>Slide 9: Applying Data Analytics</strong></summary>
+   <summary><strong>Slide 9: Begin to Apply Data Analytics</strong></summary>
 
 * The first step in solving any problem is to rephrase it in terminology that works for you. Let's use this question from earlier for example:
 
@@ -178,19 +178,17 @@ run a fresh report and send over a <code>.csv</code> file.
 
 </details>
 
-###  STOPPING HERE BEFO' I PASS OUT (DELET DIS)
-
 <details>
    <summary><strong>Slide 12: Pull Data into Jupyter Notebook</strong></summary>
 
-* Let's use some Python to import our CSV file into a Jupyter Notebook:
+* Let's use Python code to import our CSV file into a Jupyter Notebook:
 
 </details>
 
-### 4. Clean and Present your Data
+### 4. Clean and Present your Data (10 mins)
 
 <details>
-   <summary><strong>Slide 13: Clean Data</strong></summary>
+   <summary><strong>Slide 13: Clean the Data</strong></summary>
 
 * **Ask the Class:** What should we do if 5 of 1,000,000 records are missing age, but we suspect that Age is relevant to CLTV?
   * **Answer:** A quantity this small shouldn't matter enough to throw off such a large sample size. If age is relevant, it is probably best to just throw away these five outliders.
@@ -209,7 +207,7 @@ run a fresh report and send over a <code>.csv</code> file.
 </details>
 
 <details>
-   <summary><strong>Slide 15: Present Your Findings</strong></summary>
+   <summary><strong>Slide 15: Present Findings to Stakeholders</strong></summary>
 
 * Consider employer needs when assembling a presentation from your findings.
 
@@ -219,15 +217,17 @@ run a fresh report and send over a <code>.csv</code> file.
 
 * Make it your goal to always exceed employer expectations and go the extra step.
 
-  * Perhaps in your Analysis you stumble upon information that you know could be highly valuable to your company. Don't hesitate to include it just because it isn't specifically what you are solving for!
+  * Perhaps, in your Analysis, you stumble upon information that you know could be highly valuable to your company. Don't hesitate to include it just because it isn't specifically what you are solving for!
 
 </details>
 
 <details>
-   <summary><strong>Slide 16: Wrap Up - Questions?</strong></summary>
+   <summary><strong>Slide 16: Student Questions and End Lecture</strong></summary>
 
-* Thank the class for their time and participation.
+* Take one more "Fist-to-Five" of the class to see how they feel about the material that you just went over.
 
-* If time permits, be sure to allow the class time to ask any lingering questions that they may have. If answers will be too lengthy, refer the student to office hours.
+* If time permits, allow them time to ask any lingering questions that they may have. If you know that it will take a lengthy response or a group search to find an answer for a student, refer the student to office hours and move along.
+
+* Thank the class for their time and participation, and ask them to fill out the feedback form that you will be Slacking out if they get a chance.
 
 </details>
