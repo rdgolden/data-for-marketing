@@ -4,31 +4,34 @@
 
 ### Lesson Overview
 
-Today's lecture focuses on using Data Analysis and Visualization tools to drive forward business solutions, with a focus on marketing. This class focuses on translating some of the skills that students have covered in the course into real world interview success.
+Today's webinar is the first of 3 sessions aimed at teaching essential business acumen for new Data Analysts. We will be using our Data Analysis and Visualization knowledge to drive forward business solutions, with a focus on marketing. This class focuses on translating some of the skills that students have covered in the course into real world interview success.
 
 ### Class Objectives
 
 By the end of this class, students will be able to:
 
 * Demonstrate ability to apply technical skills to analyze data in a manner that adds business value.
+
+* Discuss the meaning of marketing terms used by hiring managers.
+
+* Apply their knowledge in marketing terminology to correctly identify data analysis needs for a marketing team.
+
 * Explore applications of data analysis for marketing teams.
 
 - - -
 
 ## Lecture Content
 
-Follow along with the [Data Analysis for Marketing slide deck](https://docs.google.com/presentation/d/1ssuYbYefIcWHKs5XLQj5EXjzneW1OX5ip-VSvgrAvNQ/edit#slide=id.gc6f919934_0_0). Each slide is represented by a drop down menu.
+Follow along with the [Data Analysis for Marketing slide deck](https://docs.google.com/presentation/d/1ssuYbYefIcWHKs5XLQj5EXjzneW1OX5ip-VSvgrAvNQ/edit#slide=id.gc6f919934_0_0).
+​
+Each slide is represented by a drop down menu in the markdown Lesson Plan below.
 
 ### 1. Welcome & Overview (10 mins)
 
 <details>
    <summary><strong>Slide 1: Welcome/Title</strong></summary>
-
-* Welcome students to todays webinar. Feel free to open up with an icebreaker, such as "Popcorn".
-
-  * To play Popcorn, Introduce yourself to the class, then choose a student to introduce themselves. Have them call on another, and so on until all students have introduced themselves or more than 5 minutes has gone by.
-
-  * One way to encourage engagement is to ask students to name a fun fact along with their introduction, maybe even specify their favorite animal/song/vacation spot? Feel free to add a personal touch.
+   
+* Welcome students to today's webinar.
 
 </details>
 
@@ -44,29 +47,33 @@ Follow along with the [Data Analysis for Marketing slide deck](https://docs.goog
   * Data Cleaning
   * Exploratory Data Analysis (EDA)
 
-* Encourage students who are less confident about their skill levels to participate in office hours. Use this opportunity to remind them that tutoring is also included with the Boot Camp.
+* Encourage students who are less confident about their skill levels to continue practicing at home and watch the recordings of their class when they covered this material. If they're still active students, remind them that Office Hours and tutoring can make a world of difference as well.
+
+* Ensure students know that even if they do not feel very confident in every prerequisite topic for this webinar, that they can still benefit from gaining some overall konwledge of how data analytics drives marketing decisions and to stick around.
 
 </details>
 
 <details>
    <summary><strong>Slide 3: Overview</strong></summary>
-  
+
 * Today we will be learning how to apply some of our newfound Data Analysis and Visualization skills to drive forward business solutions.
-
-* This lecture will primarily focus on how we can use Data to support a Marketing team.
-
-* It is highly likely that when you interview for real world Data jobs, that you will be asked to develop on-the-fly solutions to practical business problems.
-
-* The ability to demonstrate the application of technical skills to answer business and marketing questions could be the key to a successful interview and a new career.
+​
+* This webinar will primarily focus on how we can use Data to support a Marketing team.
+​
+* It is highly likely that when you interview for Data positions, that you will be asked to develop highly practical and on-the-fly solutions to very real business problems.
+​
+* The ability to break down business problems into valuable data questions and apply your technical skills to develop solutions will be the key to a successful interview and a new career. That's what we will be focusing on today.
 
 </details>
 
 <details>
    <summary><strong>Slide 4: Marketing Analytics</strong></summary>
 
-* Encourage students that enjoy the content of this lecture to look into Marketing Analytics as a potential future career move.
+* Everything we will discuss today will be applicable for interviews with any organization that is focused on driving revenue through data analysis. So in other words, it's highly applicable!
+​
+* However, if students in the webinar find this content particularly enjoyable, encourage them to look into Marketing Analytics specifically as a potential future career move.
 
-* Many of the skills learned in this course translate directly to the role of a Marketing Analyst. Applicable skills include:
+* Many of the skills learned in the Data Boot Camp translate directly to the role of a Marketing Analyst. Applicable skills include:
 
   * Data Visualization
   * Data Queries
@@ -82,37 +89,40 @@ Follow along with the [Data Analysis for Marketing slide deck](https://docs.goog
 <details>
    <summary><strong>Slide 5: Marketing Vocabulary</strong></summary>
 
-* In order for students to fully grasp the concepts covered in today's lecture and to prepare them to speak the lingo if they find themselves preparing data for a marketing department, it is important to cover a few key vocabulary terms.
+* In order for students to fully grasp the concepts covered in today's lecture and to prepare them to speak the lingo if they find themselves preparing data that will be used by the company's marketing department, it is important to cover a few key vocabulary terms.
 
-* Share [marketing_vocab.pdf](./marketing_vocab.pdf) with class as reference material. Open link on screen and choose and few important keywords to highlight.
+* Share [marketing_vocab.pdf](./marketing_vocab.pdf) with class as reference material. Open link on screen and choose and few important keywords to highlight. Students should have received a link to this material on the webinar invitation.
 
 </details>
 
 <details>
-   <summary><strong>Slide 6: Why is Marketing Important?</strong></summary>
+   <summary><strong>Slide 6: Why is Data Analytics Important for Marketing?</strong></summary>
 
-* It can be argued that Marketing is the single most important factor in determining whether or not a business will succeed.
+* It can be argued that Marketing is the one of the most important factors in determining whether or not a business will succeed.
 
-* Marketing departments buy ads, write copy, bid on keywords, organize events, and identify target demographics to market to.
+* Leaders in every organization are vying for Data Analysts that can help their Marketing departments understand the habits and interests of their target demographics, predict trends, and help direct their resources in the most efficient ways.
 
-* In other words, they are responsible for engagement strategies and maintainining relationships with their audience.
+* Marketing departments buy ads, write copy, bid on keywords, organize events, and identify target demographics for their products. They need reliable data to make well-informed decisions.
+
+* In other words, Marketing is responsible for engagement strategies and maintainining relationships with their audience to ensure the business stays viable, but they can't do this without Data.
 
 </details>
 
 <details>
    <summary><strong>Slide 7: What is Data Driven Marketing?</strong></summary>
 
-* Data Driven Marketing is the process of using available data to gain industry and performance insights, in turn allowing the business to make more informed marketing decisions.
-
-* Run class through the four part process listed in the chart and ask students if they can relate this process to the processes that they've covered in class
-
+* Data Driven Marketing uses available data to gain industry and performance insights, in turn allowing the business to make more informed marketing decisions. It's using what the students know, as Data Analysts, to keep the business in competition.
+​
+* Run class through the four part Marketing process listed in the chart and ask students to raise their hands if they can relate this process to the processes that they covered in class.
+​
 * Use the following as some potential examples of marketing problems that require Data Driven solutions:
 
   * "Some of our KPIs seems to be decreasing, could you help us determine what may be leading to this sudden decline in performance?"
+
   * "Could you gather data to help us determine which marketing efforts are driving the highest amount of conversions?"
-
+​
 * Make sure to highlight this potential issue, as it will be followed up in the next section:
-
+​
   * “Our CPA is pretty high and we want to invest in clients with the highest Lifetime value. Can you help us?”
 
 </details>
@@ -120,8 +130,8 @@ Follow along with the [Data Analysis for Marketing slide deck](https://docs.goog
 <details>
    <summary><strong>Slide 8: Data Driven Marketing Gets Results</strong></summary>
 
-* Data Driven Marketing has completely reshaped the way that companies engage with customers, design marketing campaigns, and determine which assets are critical and worth continuing to expense.
-
+* Data Driven Marketing has completely reshaped the way that companies engage with customers, design marketing campaigns, and determine which assets are critical and worth continuing to expense. Data Analytics in Marketing has become absolutely necessary.
+​
   * Explain that DDM has been shown to improve Efficiency, Engagement, and Performance when applied to marketing strategy.
 
 * There are many inspiring statistics to vouch for the relevance and importance of DDM. Let's take some time to highlight a few of the best:
@@ -139,15 +149,9 @@ Follow along with the [Data Analysis for Marketing slide deck](https://docs.goog
 <details>
    <summary><strong>Slide 9: First Steps Toward a Data Driven Solution</strong></summary>
 
-* The first step in solving any problem is to rephrase it in terminology that works for you. Let's use this question from earlier for example:
+* Introduce this activity to the students and let them know everyone will work together to apply Data Analytics to this interview question demonstrating a real world business problem.
 
-  * “Our CPA is pretty high and we want to only invest in clients with the highest LTV. Can you help us?”
-
-* Let's remove all irrelevant content so that we can focus on what data we actually need to be gathering.
-
-* How could we re-phrase this question in Data terms?
-
-  * “What traits do customers with high LTV share?”
+* Remind students that LTV stands for Lifetime Value, meaning how much money the company will make from one customer over the course of their entire relationship.
 
 </details>
 
@@ -169,12 +173,11 @@ Follow along with the [Data Analysis for Marketing slide deck](https://docs.goog
 <details>
    <summary><strong>Slide 11: Acquire the Data</strong></summary>
 
-* The best place to start in this case is probably to ask marketing where they store data.
+* The best place to start in this case is probably to ask your stakeholder where and how they store their data.
 
-  * Let's imagine for this example that they use SalesForce and for some reason you can’t access it.
+  * Let's imagine for this example that they use SalesForce. Many companies don't grant Salesforce API access to everyone, so you may not be able to access it directly.
 
-  * No problem! Have them
-run a fresh report and send over a <code>.csv</code> file.
+  * No problem! You'd ask them run a fresh report and send over a <code>.csv</code> file.
 
 </details>
 
@@ -190,9 +193,16 @@ run a fresh report and send over a <code>.csv</code> file.
 <details>
    <summary><strong>Slide 13: Clean the Data</strong></summary>
 
+* Just like students have done in their classroom examples of data analysis, they will have to clean this data and ask critical questions to determine how exactly to do this.
+
 * **Ask the Class:** What should we do if 5 of 1,000,000 records are missing age, but we suspect that Age is relevant to CLTV?
-  * **Answer:** A quantity this small shouldn't matter enough to throw off such a large sample size. If age is relevant, it is probably best to just throw away these five outliders.
+
+  * **Answer:** A quantity this small shouldn't matter enough to throw off such a large sample size. If age is relevant, it is probably best to just throw away these five outliers.
+
+* Ensure students understand the specificity of removing only irrelevant data.
+
   * We definitely don't want to remove columns that have relevant data.
+
   * If 50% of data was missing age, we would keep all of those clients' data without the age column, to prevent from losing such a huge amount of Data.
 
 </details>
@@ -201,7 +211,7 @@ run a fresh report and send over a <code>.csv</code> file.
    <summary><strong>Slide 14: Exploratory Data Analysis (EDA)</strong></summary>
 
 * Let's use some more Python code to plot our data and analyze CLTV against each other factor listed in the CSV.
-
+​
 * Our goal is to use regression analysis to look for the strongest correlations between our various criteria and CLTV.
 
 </details>
@@ -210,13 +220,13 @@ run a fresh report and send over a <code>.csv</code> file.
    <summary><strong>Slide 15: Present Findings to Stakeholders</strong></summary>
 
 * Consider employer needs when assembling a presentation from your findings.
-
+​
   * What are the real problems facing marketing teams?
-
+​
   * Are they worried about lifetime value, or value in the next year?
-
+​
 * Make it your goal to always exceed employer expectations and go the extra step.
-
+​
   * Perhaps, in your Analysis, you stumble upon information that you know could be highly valuable to your company. Don't hesitate to include it just because it isn't specifically what you are solving for!
 
 </details>
