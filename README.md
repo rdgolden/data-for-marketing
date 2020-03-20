@@ -30,7 +30,7 @@ Each slide is represented by a drop down menu in the markdown Lesson Plan below.
 
 <details>
    <summary><strong>Slide 1: Welcome/Title</strong></summary>
-   
+
 * Welcome students to today's webinar.
 
 </details>
