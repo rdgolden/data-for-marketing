@@ -82,9 +82,9 @@ Follow along with the [Data Analysis for Marketing slide deck](https://docs.goog
 <details>
    <summary><strong>Slide 5: Marketing Vocabulary</strong></summary>
 
-* In order for students to fully grasp the concepts of todays lecture and to prepare them to speak the lingo if they find themselves preparing data for a marketing department, it is important to cover a few key vocabulary terms.
+* In order for students to fully grasp the concepts covered in today's lecture and to prepare them to speak the lingo if they find themselves preparing data for a marketing department, it is important to cover a few key vocabulary terms.
 
-* Share [marketing_vocab.pdf](./marketing_vocab.pdf) with class as reference material. Open link on screen and highlight some key terms
+* Share [marketing_vocab.pdf](./marketing_vocab.pdf) with class as reference material. Open link on screen and choose and few important keywords to highlight.
 
 </details>
 
@@ -178,12 +178,12 @@ run a fresh report and send over a <code>.csv</code> file.
 
 </details>
 
+###  STOPPING HERE BEFO' I PASS OUT (DELET DIS)
+
 <details>
    <summary><strong>Slide 12: Pull Data into Jupyter Notebook</strong></summary>
 
 * Let's use some Python to import our CSV file into a Jupyter Notebook:
-
-  * 
 
 </details>
 
