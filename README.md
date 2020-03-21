@@ -2,6 +2,10 @@
 
 ## Instructor Prep
 
+### Interviewer Notes
+
+This webinar is intended to be delivered to students who are further along in the course or even alumni of the program, in order to help them become more Career Competitive by reinforcing industry knowledge and potential technical interview applications.
+
 ### Lesson Overview
 
 Today's webinar is the first of 3 sessions aimed at teaching essential business acumen for new Data Analysts. We will be using our Data Analysis and Visualization knowledge to drive forward business solutions, with a focus on marketing. This class focuses on translating some of the skills that students have covered in the course into real world interview success.
@@ -186,29 +190,14 @@ Each slide is represented by a drop down menu in the markdown Lesson Plan below.
 
 * Let's use Python code to import our CSV file into a Jupyter Notebook:
 
-</details>
+```
 
-### 4. Clean and Present your Data (10 mins)
-
-<details>
-   <summary><strong>Slide 13: Clean the Data</strong></summary>
-
-* Just like students have done in their classroom examples of data analysis, they will have to clean this data and ask critical questions to determine how exactly to do this.
-
-* **Ask the Class:** What should we do if 5 of 1,000,000 records are missing age, but we suspect that Age is relevant to CLTV?
-
-  * **Answer:** A quantity this small shouldn't matter enough to throw off such a large sample size. If age is relevant, it is probably best to just throw away these five outliers.
-
-* Ensure students understand the specificity of removing only irrelevant data.
-
-  * We definitely don't want to remove columns that have relevant data.
-
-  * If 50% of data was missing age, we would keep all of those clients' data without the age column, to prevent from losing such a huge amount of Data.
+```
 
 </details>
 
 <details>
-   <summary><strong>Slide 14: Exploratory Data Analysis (EDA)</strong></summary>
+   <summary><strong>Slide 13: Exploratory Data Analysis (EDA)</strong></summary>
 
 * Let's use some more Python code to plot our data and analyze CLTV against each other factor listed in the CSV.
 ​

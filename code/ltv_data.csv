@@ -1,31 +1,42 @@
 Lifetime Value,First Purchase Value,Age,Gender,Household Income,Personal Income,Dependants,Education,Location (Region),How they Joined
-"2,080",503,33,Female,216652,131213,0,,West,Instagram Ad
-55,55,70,Female,124508,0,0,Some High School,Midwest,Television Ad
-300,128,42,Male,169813,90129,3,Bachelor’s Degree,West,Word of mouth
-156,95,56,Male,222438,120864,2,Bachelor’s Degree,Northeast,Instagram Ad
-2857,124,22,Female,271425,35500,1,High school or GED,South,Facebook Ad
-22,22,52,Male,192723,80500,3,Bachelor’s Degree,South,Instagram Ad
-,50,55,Male,177020,85557,4,Bachelor’s Degree,West,Facebook Ad
-"1,080",45,69,Female,111955,73230,3,Graduate Degree,South,Word of mouth
-402,255,21,Female,253939,52740,0,High School or GED,West,Facebook Ad
-62,62,75,Male,30087,30087,0,Some High School,South,Word of mouth
-155,155,65,Male,124521,124521,2,Bachelor’s Degree,Midwest,Television Ad
-199,45,56,Male,121913,121913,3,Graduate Degree,Northeast,Television Ad
-"1,472",630,42,Female,309823,175023,3,Bachelor’s Degree,West,Instagram Ad
-"1,720",54,25,,87260,40042,,Bachelor’s Degree,Northeast,Facebook Ad
-"3,801",826,18,,138416,0,,,West,Instagram Ad
-3045,926,43,Female,301643,55832,1,High school or GED,West,Facebook Ad
-709,50,25,Other,203179,35221,1,,West,Word of mouth
-304,54,63,Male,311443,241235,3,Graduate Degree,Midwest,Television Ad
-33,33,70,Male,118024,101745,0,Bachelor’s Degree,Midwest,Television Ad
-1239,333,48,Female,90427,35762,2,,Midwest,Facebook Ad
-1790,886,21,Other,332729,45736,,Bachelor’s Degree,South,Instagram Ad
-2100,65,48,Female,156730,156730,1,Graduate Degree,Midwest,Facebook Ad
-720,54,56,Other,310847,186235,2,Graduate Degree,West,Word of mouth
-708,231,42,,248034,192543,,Bachelor’s Degree,Northeast,Facebook Ad
-663,663,25,,54244,54244,,,South,Instagram Ad
-45,45,75,Male,202572,30252,0,High school or GED,South,Word of mouth
-43,43,73,Male,154759,20162,0,Some High School,South,Television Ad
-402,302,60,Female,98785,98785,1,Bachelor’s Degree,West,Word of mouth
-501,87,38,Male,183618,90263,2,Bachelor’s Degree,Northeast,Television Ad
-809,420,41,Female,192958,95725,2,Bachelor’s Degree,Northeast,Facebook Ad
+20000,503,33,Female,216652,31213,0,,West,Instagram Ad
+19000,55,35,Female,209652,0,0,Some High School,Midwest,Television Ad
+18000,128,31,Female,216752,10000,3,Bachelor’s Degree,West,Word of mouth
+17000,95,56,Male,205652,20000,2,Bachelor’s Degree,Northeast,Instagram Ad
+16000,124,22,Female,183452,15000,1,High school or GED,South,Facebook Ad
+15000,22,36,Male,170652,30000,3,Bachelor’s Degree,South,Instagram Ad
+14000,50,37,Female,176752,8555,4,Bachelor’s Degree,West,Facebook Ad
+13000,45,34,Female,163452,7230,3,Graduate Degree,South,Word of mouth
+12000,255,21,Female,170252,12740,0,High School or GED,West,Facebook Ad
+11000,62,75,Male,154552,30087,0,Some High School,South,Word of mouth
+10000,155,65,Male,146052,124521,2,Bachelor’s Degree,Midwest,Television Ad
+9000,45,56,Male,140652,139652,3,Graduate Degree,Northeast,Television Ad
+8000,630,42,Female,125652,132652,3,Bachelor’s Degree,West,Instagram Ad
+7000,54,25,,125652,125652,,Bachelor’s Degree,Northeast,Facebook Ad
+6000,826,18,,132652,118652,,,West,Instagram Ad
+5000,926,43,Female,111652,111652,1,High school or GED,West,Facebook Ad
+4000,50,25,Other,104652,104652,1,,West,Word of mouth
+3000,54,63,Male,97652,97652,3,Graduate Degree,Midwest,Television Ad
+2000,33,70,Male,90452,90452,0,Bachelor’s Degree,Midwest,Television Ad
+1000,333,48,Female,87652,87652,2,,Midwest,Facebook Ad
+1100,886,21,Other,66352,66352,,Bachelor’s Degree,South,Instagram Ad
+1200,65,48,Female,70652,70652,1,Graduate Degree,Midwest,Facebook Ad
+1100,54,56,Other,61452,61452,2,Graduate Degree,West,Word of mouth
+1115,231,42,,54652,54652,,Bachelor’s Degree,Northeast,Facebook Ad
+1982,663,25,,43652,43652,,,South,Instagram Ad
+1020,45,75,Male,41652,41652,0,High school or GED,South,Word of mouth
+1340,43,73,Male,27652,27652,0,Some High School,South,Television Ad
+1320,302,60,Female,34652,34652,1,Bachelor’s Degree,West,Word of mouth
+1007,87,38,Male,20652,20652,2,Bachelor’s Degree,Northeast,Television Ad
+1070,420,41,Female,13652,13652,2,Bachelor’s Degree,Northeast,Facebook Ad
+23600,65,32,Female,245000,0,3,,West,Instagram Ad
+30000,44,37,Female,347000,0,2,Some High School,Midwest,Television Ad
+18500,12,41,Female,185000,16793,4,Bachelor’s Degree,West,Word of mouth
+17500,450,31,Female,243000,6543,1,Bachelor’s Degree,Northeast,Instagram Ad
+16500,78,27,Female,225678,22834,3,High school or GED,South,Facebook Ad
+15500,202,35,Male,328733,0,2,Bachelor’s Degree,South,Instagram Ad
+30543,117,40,Female,300283,10718,2,Bachelor’s Degree,West,Facebook Ad
+21532,7,39,Female,106434,0,4,Graduate Degree,South,Word of mouth
+12500,81,31,Female,205333,0,3,High School or GED,West,Facebook Ad
+11500,16,33,Female,90000,15457,1,Some High School,South,Word of mouth
+10500,322,42,Male,86000,0,1,Bachelor’s Degree,Midwest,Television Ad

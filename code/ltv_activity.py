@@ -1,10 +1,9 @@
-%matplotlib notebook
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy.optimize import curve_fit
+from scipy.stats as st
 
-data = pd.read_csv('./ltv_data.csv')
+data = pd.read_csv('./data.csv')
 
 x = data['Lifetime Value']
 y = data['Age']
@@ -17,7 +16,7 @@ popt, pcov = curve_fit(func, x, y)
 plt.clf()
 
 plt.scatter(x, y, label="Original Data")
-plt.plot(x, func(x, *popt), 'r-', label="Fitted Curve")
+plt.plot(x, func(x, *popt), 'r-', label="Linear Regression")
 
 # Setting the Title, X- and Y-axis labels
 plt.title("Age Vs. LTV")
