@@ -2,11 +2,9 @@
 
 ## Instructor Prep
 
-### Interviewer Notes
+### Lesson Overview
 
 This webinar is intended to be delivered to students who are further along in the course or even alumni of the program, in order to help them become more Career Competitive by reinforcing industry knowledge and potential technical interview applications.
-
-### Lesson Overview
 
 Today's webinar is the first of 3 sessions aimed at teaching essential business acumen for new Data Analysts. We will be using our Data Analysis and Visualization knowledge to drive forward business solutions, with a focus on marketing. This class focuses on translating some of the skills that students have covered in the course into real world interview success.
 
