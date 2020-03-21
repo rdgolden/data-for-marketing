@@ -30,7 +30,7 @@ Follow along with the [Data Analysis for Marketing slide deck](https://docs.goog
 ​
 Each slide is represented by a drop down menu in the markdown Lesson Plan below.
 
-### 1. Welcome & Overview (10 mins)
+### 1. Welcome & Overview (5 mins)
 
 <details>
    <summary><strong>Slide 1: Welcome/Title</strong></summary>
@@ -188,44 +188,75 @@ Each slide is represented by a drop down menu in the markdown Lesson Plan below.
 <details>
    <summary><strong>Slide 12: Pull Data into Jupyter Notebook</strong></summary>
 
-* Let's use Python code to import our CSV file into a Jupyter Notebook:
+* Slack out link to code folder so students can follow along!
 
-```
-
-```
+* First, let's use Python code to import our dependencies and bring in our CSV file.
 
 </details>
 
 <details>
    <summary><strong>Slide 13: Exploratory Data Analysis (EDA)</strong></summary>
 
-* Let's use some more Python code to plot our data and analyze CLTV against each other factor listed in the CSV.
+* Let's use some more Python code to plot our data and analyze LTV against each other non-categorical factor listed in the CSV.
 ​
 * Our goal is to use regression analysis to look for the strongest correlations between our various criteria and CLTV.
 
 </details>
 
 <details>
-   <summary><strong>Slide 15: Present Findings to Stakeholders</strong></summary>
+   <summary><strong>Slide 14: Linear Regression</strong></summary>
 
-* Consider employer needs when assembling a presentation from your findings.
-​
-  * What are the real problems facing marketing teams?
-​
-  * Are they worried about lifetime value, or value in the next year?
-​
-* Make it your goal to always exceed employer expectations and go the extra step.
-​
-  * Perhaps, in your Analysis, you stumble upon information that you know could be highly valuable to your company. Don't hesitate to include it just because it isn't specifically what you are solving for!
+* Next, we will perform linear regression using LTV vs FPV, and create an equation for our line. We can then plot this linear model over our scatter plot.
+
+* Now we just need to repeat this same process of plotting scatter and linear model for LTV against our other non-categorical data.
+
+</details>
+
+### 4. Presenting Our Findings (5 mins)
+
+<details>
+   <summary><strong>Slides 15-18: LTV Correlations</strong></summary>
+
+* Run through each slide and explain how each category correlates with our LTV values.
+
+* **Lifetime Value vs First Purchase Value** - appear to have no strong relationship. However, we can see that people with very high FPVs tend to make one time purchases only. Perhaps shopping sprees?
+
+* **Lifetime Value vs Age** - have no linear relationship. We can see, however, that our customers with the highest LTVs tend to be in their 30s and 40s.
+
+* **Lifetime Value vs Household Income** - High household income has a very clear direct correlation to the lifetime value of their customers. People who make 100k or more tend to have a Lifetime Value of 5,000 or more.
+
+* **Lifetime Value vs Personal Income** - We see a very interesting cluster of high Lifetime Value around the lowest Personal Income on the left, and on the right we have a steady increase as Personal Income increases. This is an opportunity to infer that our target demographic is people with a high household income and a low personal income, likely people who are not the primary breadwinners.
 
 </details>
 
 <details>
-   <summary><strong>Slide 16: Student Questions and End Lecture</strong></summary>
+   <summary><strong>Slide 19: Present Findings to Stakeholders</strong></summary>
+
+* Make it your goal to always exceed employer expectations and go the extra step.
+​
+  * Perhaps, in your Analysis, you stumble upon information that you know could be highly valuable to your company. Don't hesitate to include it just because it isn't specifically what you are solving for!
+
+* From our Analysis today, we can determine the following key findings:
+  * The highest LTV age range is 30s-40s.
+  * Household Income is our clearest indicator of LTV, however personal income tends to be lower.
+
+* Using this info, we can infer that our target marketing demographic is non-employed or under-employed spouses in high-income households.
+
+</details>
+
+<details>
+   <summary><strong>Slide 20: Pop Quiz</strong></summary>
+
+* Time permitting, quiz the class on these topics. If you are running low on time, send the questions out on Slack and encourage the class to answer them on their own.
+
+</details>
+
+<details>
+   <summary><strong>Slide 21: Student Questions and End Lecture</strong></summary>
 
 * Take one more "Fist-to-Five" of the class to see how they feel about the material that you just went over.
 
-* If time permits, allow them time to ask any lingering questions that they may have. If you know that it will take a lengthy response or a group search to find an answer for a student, refer the student to office hours and move along.
+* Allow them the opportunity to ask any lingering questions that they may have. If you know that it will take a lengthy response or a group search to find an answer for a student, refer the student to office hours and move along.
 
 * Thank the class for their time and participation, and ask them to fill out the feedback form that you will be Slacking out if they get a chance.
 
